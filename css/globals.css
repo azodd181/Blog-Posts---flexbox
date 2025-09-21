@@ -225,7 +225,7 @@ ol {
   transition: 0.4s;
 }
 
-.footer-text {
+.copywriter {
   font-family: var(--noto-sans);
   font-size: 14px;
 }
