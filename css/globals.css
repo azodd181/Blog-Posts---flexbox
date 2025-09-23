@@ -62,7 +62,7 @@ ol {
 }
 
 .container {
-  width: calc(var(--container-width)+ (var(--container-padding) * 2));
+  width: calc(var(--container-width) + (var(--container-padding) * 2));
   padding: 0 var(--container-padding);
   margin: 0 auto;
 }
